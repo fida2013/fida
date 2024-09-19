@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fida/static/css/main.f855e6bc.css",
+    "main.js": "/fida/static/js/main.5a5ef219.js",
+    "static/js/453.5e560239.chunk.js": "/fida/static/js/453.5e560239.chunk.js",
+    "index.html": "/fida/index.html",
+    "main.f855e6bc.css.map": "/fida/static/css/main.f855e6bc.css.map",
+    "main.5a5ef219.js.map": "/fida/static/js/main.5a5ef219.js.map",
+    "453.5e560239.chunk.js.map": "/fida/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5a5ef219.js"
+  ]
+}
